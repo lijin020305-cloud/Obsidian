@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a2246eb5bd6d2e",
+        "id": "88108a96a2ac2ba6",
         "type": "tabs",
         "children": [
           {
-            "id": "204d93596d1e88d7",
+            "id": "f7308c831d05b6a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日报.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "日报"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,31 +90,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "191dbaba6d54cb81",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "日报.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
             "id": "6fa344d84439f26b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +137,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日报.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,13 +154,32 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "821f027a4459787b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +193,21 @@
       "bases:新建数据库": false
     }
   },
-  "active": "204d93596d1e88d7",
+  "active": "f7308c831d05b6a5",
   "lastOpenFiles": [
-    "未命名.md",
+    "上海思维/Engagehub/Engagehub AWS access key.md",
+    "账号密码：.md",
     "未命名.base",
-    "日报.md"
+    "日报.md",
+    "未命名 1.md",
+    "上海思维/Opitor密钥.md",
+    "上海思维/Opitor/adjutant-prod(1).pem",
+    "未命名 2.md",
+    "上海思维/BMS",
+    "上海思维/Engagehub",
+    "未命名",
+    "上海思维/Opitor",
+    "s",
+    "上海思维"
   ]
 }
