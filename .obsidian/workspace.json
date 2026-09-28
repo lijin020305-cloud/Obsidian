@@ -11,10 +11,14 @@
             "id": "f7308c831d05b6a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "个人收藏/S.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "S"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "个人收藏/S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -137,6 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "个人收藏/S.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -161,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "个人收藏/S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +202,17 @@
   },
   "active": "f7308c831d05b6a5",
   "lastOpenFiles": [
+    "上海思维/Opitor密钥.md",
     "上海思维/Engagehub/Engagehub AWS access key.md",
     "账号密码：.md",
     "未命名.base",
     "日报.md",
-    "未命名 1.md",
-    "上海思维/Opitor密钥.md",
+    "个人收藏/S.md",
     "上海思维/Opitor/adjutant-prod(1).pem",
     "未命名 2.md",
     "上海思维/BMS",
     "上海思维/Engagehub",
-    "未命名",
+    "个人收藏",
     "上海思维/Opitor",
     "s",
     "上海思维"
