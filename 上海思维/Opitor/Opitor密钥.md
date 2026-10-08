@@ -43,3 +43,5 @@ IAM用户名：LIJIN-Opitor
 MFA设备名称必须为 LIJIN-Opitor 或以 LIJIN-Opitor- 开头。
 创建EBS快照必须添加标签 Project=Opitor。
 没有创建长期访问密钥。
+
+ssh opitor-prod
