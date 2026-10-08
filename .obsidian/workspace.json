@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日报.md",
+                "file": "草稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日报"
+              "title": "草稿"
             }
           },
           {
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3d82e69ee650d67a",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日报.md",
+                "file": "草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日报.md",
+                "file": "草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日报.md",
+                "file": "草稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +216,8 @@
   },
   "active": "c17fc9ec257b9eac",
   "lastOpenFiles": [
-    "日报prompt.md",
     "日报.md",
+    "日报prompt.md",
     "草稿.md",
     "个人收藏/SSS/Heiliaowang.md",
     "okr.md",
