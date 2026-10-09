@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿.md",
+                "file": "个人收藏/SSS/Heiliaowang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "草稿"
+              "title": "Heiliaowang"
             }
           },
           {
-            "id": "fb1ce715887c31ee",
+            "id": "e3b5731c9a122584",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "日报"
             }
+          },
+          {
+            "id": "45ef33976193f8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日报prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "日报prompt"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日报.md",
+                "file": "日报prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日报.md",
+                "file": "日报prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日报.md",
+                "file": "日报prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,12 +229,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "fb1ce715887c31ee",
+  "active": "45ef33976193f8e9",
   "lastOpenFiles": [
-    "日报prompt.md",
     "日报.md",
-    "草稿.md",
     "个人收藏/SSS/Heiliaowang.md",
+    "草稿.md",
+    "日报prompt.md",
     "okr.md",
     "Opitor供应商.md",
     "上海思维/Opitor/Opitor prompt.md",
