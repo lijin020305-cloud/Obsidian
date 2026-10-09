@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日报prompt.md",
+                "file": "日报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日报prompt.md",
+                "file": "日报.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日报prompt.md",
+                "file": "日报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,10 +229,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "45ef33976193f8e9",
+  "active": "e3b5731c9a122584",
   "lastOpenFiles": [
-    "日报.md",
     "日报prompt.md",
+    "日报.md",
     "个人收藏/SSS/Heiliaowang.md",
     "草稿.md",
     "okr.md",
