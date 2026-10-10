@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "e3b5731c9a122584",
+            "id": "ac182577c9418199",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +49,7 @@
               "title": "日报prompt"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3d82e69ee650d67a",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日报.md",
+                "file": "个人收藏/SSS/Heiliaowang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日报.md",
+                "file": "个人收藏/SSS/Heiliaowang.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日报.md",
+                "file": "个人收藏/SSS/Heiliaowang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,20 +228,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e3b5731c9a122584",
+  "active": "c17fc9ec257b9eac",
   "lastOpenFiles": [
-    "日报prompt.md",
     "日报.md",
     "个人收藏/SSS/Heiliaowang.md",
+    "日报prompt.md",
+    "个人收藏/SSS/Web AA.md",
+    "个人收藏/SSS/X.md",
+    "个人收藏/SSS/AAA.md",
     "草稿.md",
     "okr.md",
     "Opitor供应商.md",
     "上海思维/Opitor/Opitor prompt.md",
     "上海思维/Opitor/Opitor本地预览prompt.md",
     "上海思维/Opitor/Opitor密钥.md",
-    "个人收藏/SSS/草稿AA.md",
-    "个人收藏/SSS/AAA.md",
-    "个人收藏/SSS/X.md",
     "上海思维/Opitor/本地预览账密.md",
     "上海思维/Engagehub/Engagehub AWS access key.md",
     "个人收藏/账号密码：.md",
