@@ -63,7 +63,8 @@
               "title": "Heiliaowang"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,10 +243,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "eb3e68c93afcf9e6",
+  "active": "a49b5556ff1ac16f",
   "lastOpenFiles": [
-    "日报prompt.md",
     "日报.md",
+    "日报prompt.md",
     "规划草稿.md",
     "个人收藏/SSS/Heiliaowang.md",
     "个人收藏/SSS/Web AA.md",
