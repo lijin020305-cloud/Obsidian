@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日报prompt.md",
+                "file": "日报.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日报prompt"
+              "title": "日报"
             }
           },
           {
@@ -260,13 +260,13 @@
   "lastOpenFiles": [
     "日报prompt.md",
     "Opitor供应商.md",
+    "规划草稿.md",
+    "日报.md",
     "okr.md",
     "X.md",
     "草稿.md",
     "英语学习/英语学习.md",
     "英语学习",
-    "规划草稿.md",
-    "日报.md",
     "个人收藏/SSS/Heiliaowang.md",
     "个人收藏/SSS/Web AA.md",
     "codex/prompt.md",
