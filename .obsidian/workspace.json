@@ -77,8 +77,7 @@
               "title": "Heiliaowang"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,8 +256,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "261057120ffe2a7d",
+  "active": "eb3e68c93afcf9e6",
   "lastOpenFiles": [
+    "日报prompt.md",
+    "Opitor供应商.md",
     "okr.md",
     "X.md",
     "草稿.md",
@@ -266,7 +267,6 @@
     "英语学习",
     "规划草稿.md",
     "日报.md",
-    "日报prompt.md",
     "个人收藏/SSS/Heiliaowang.md",
     "个人收藏/SSS/Web AA.md",
     "codex/prompt.md",
@@ -276,7 +276,6 @@
     "codex",
     "个人收藏/SSS/AAA.md",
     "个人收藏/SSS/留存.md",
-    "Opitor供应商.md",
     "上海思维/Opitor/Opitor prompt.md",
     "上海思维/Opitor/Opitor本地预览prompt.md",
     "上海思维/Opitor/Opitor密钥.md",
