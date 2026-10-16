@@ -63,8 +63,7 @@
               "title": "阅读"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,12 +243,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c8f2e83d8948ce3a",
+  "active": "eb3e68c93afcf9e6",
   "lastOpenFiles": [
+    "日报prompt.md",
+    "日报.md",
     "英语学习/阅读.md",
     "英语学习/英语初级单词汇.md",
-    "日报.md",
-    "日报prompt.md",
     "个人正常/思维.md",
     "Opitor供应商.md",
     "个人收藏/SSS/Heiliaowang.md",
