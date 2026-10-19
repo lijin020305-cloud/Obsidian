@@ -1,0 +1,7 @@
+Channel Access Token：bkSUEAjjKQlkezL1QqThIaWGFeSrqwxq19WH/2tQYKzcYxv8dMednv+XEnUCCzFCtvcersjfV4IY5pojQN9bBc9IiHsXMAhfXf9Cv2oVEmL1cgVvAJvU/ob5ViljTy+gYOxWE5bFephi2wSBJBFPIQdB04t89/1O/w1cDnyilFU=
+
+Channel Secret：
+cb650dd314e2b3173ac1b5fdc21c1b65
+
+Channel ID：
+ 2011744944
