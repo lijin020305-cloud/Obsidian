@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "上海思维/Opitor/本地预览账密.md",
+                "file": "上海思维/Opitor/Opitor本地预览prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本地预览账密"
+              "title": "Opitor本地预览prompt"
             }
           },
           {
@@ -259,10 +259,10 @@
   },
   "active": "0951f842f475750c",
   "lastOpenFiles": [
-    "上海思维/Opitor/Opitor prompt.md",
-    "上海思维/Opitor/line Opitor.md",
     "草稿.md",
     "上海思维/Opitor/本地预览账密.md",
+    "上海思维/Opitor/Opitor prompt.md",
+    "上海思维/Opitor/line Opitor.md",
     "上海思维/未命名.base",
     "上海思维/Opitor/Opitor密钥.md",
     "上海思维/Opitor/Opitor本地预览prompt.md",
