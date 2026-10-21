@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,11 +229,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d2a86eb28a71d65b",
+  "active": "73ec32d326f5594d",
   "lastOpenFiles": [
+    "草稿.md",
     "规划草稿.md",
     "Opitor供应商.md",
-    "草稿.md",
     "上海思维/Opitor/本地预览账密.md",
     "A.md",
     "上海思维/Opitor/Opitor本地预览prompt.md",
