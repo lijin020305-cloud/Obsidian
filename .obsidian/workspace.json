@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人留存/juan/赔偿.md",
+                "file": "日报prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "赔偿"
+              "title": "日报prompt"
+            }
+          },
+          {
+            "id": "4ebf50f323db68e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "commit+push prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "commit+push prompt"
             }
           },
           {
@@ -49,7 +63,8 @@
               "title": "Heiliaowang"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,11 +243,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5067095334d3d35c",
+  "active": "4ebf50f323db68e6",
   "lastOpenFiles": [
+    "日报prompt.md",
+    "commit+push prompt.md",
+    "个人留存/juan/赔偿.md",
     "草稿.md",
     "个人收藏/SSS/Heiliaowang.md",
-    "个人留存/juan/赔偿.md",
     "个人留存/juan/承诺.md",
     "英语学习/工作单词.md",
     "个人留存/gmail.md",
@@ -241,7 +258,6 @@
     "个人情况.md",
     "规划草稿.md",
     "日报.md",
-    "日报prompt.md",
     "A.md",
     "okr.md",
     "Opitor供应商.md",
@@ -258,7 +274,6 @@
     "上海思维/Opitor/Opitor prompt.md",
     "个人收藏/SSS/X.md",
     "个人收藏/SSS/Web AA.md",
-    "个人收藏/SSS/留存.md",
     "上海思维/未命名.base",
     "英语学习",
     "个人正常",
