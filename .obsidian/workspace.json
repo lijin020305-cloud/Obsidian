@@ -49,7 +49,8 @@
               "title": "日报"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,14 +229,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5067095334d3d35c",
+  "active": "500abdbabbf9b0f6",
   "lastOpenFiles": [
+    "commit+push prompt.md",
     "日报.md",
     "个人留存/juan/赔偿.md",
     "草稿.md",
     "个人留存/juan/承诺.md",
     "个人收藏/SSS/Heiliaowang.md",
-    "commit+push prompt.md",
     "上海思维/Opitor/本地预览账密.md",
     "上海思维/Opitor/line Opitor.md",
     "上海思维/Opitor/Opitor本地预览prompt.md",
