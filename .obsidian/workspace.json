@@ -49,8 +49,7 @@
               "title": "日报"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,10 +228,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "65c2c8d7ae1594c6",
+  "active": "5067095334d3d35c",
   "lastOpenFiles": [
-    "个人留存/juan/赔偿.md",
     "日报.md",
+    "个人留存/juan/赔偿.md",
     "草稿.md",
     "个人留存/juan/承诺.md",
     "个人收藏/SSS/Heiliaowang.md",
