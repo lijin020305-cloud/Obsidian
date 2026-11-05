@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3d102f34e7372cf2",
+  "active": "65c2c8d7ae1594c6",
   "lastOpenFiles": [
-    "规划草稿.md",
     "请问请问.md",
+    "规划草稿.md",
     "上海思维/Opitor/本地预览账密.md",
     "上海思维/Opitor/Opitor密钥.md",
     "上海思维/Opitor/Opitor本地预览prompt.md",
