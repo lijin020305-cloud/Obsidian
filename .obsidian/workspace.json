@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "上海思维/Opitor/Opitor密钥.md",
+                "file": "上海思维/Opitor/本地预览账密.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opitor密钥"
+              "title": "本地预览账密"
             }
           },
           {
@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.1000061035156
+    "width": 299.1000061035156,
+    "collapsed": true
   },
   "right": {
     "id": "3d82e69ee650d67a",
@@ -259,12 +260,12 @@
   },
   "active": "65c2c8d7ae1594c6",
   "lastOpenFiles": [
-    "问题汇总115.md",
     "请问请问.md",
-    "规划草稿.md",
-    "commit+push prompt.md",
+    "问题汇总115.md",
     "上海思维/Opitor/本地预览账密.md",
     "上海思维/Opitor/Opitor密钥.md",
+    "commit+push prompt.md",
+    "规划草稿.md",
     "上海思维/Opitor/Opitor本地预览prompt.md",
     "上海思维/Opitor/Opitor prompt.md",
     "上海思维/Opitor/line Opitor.md",
