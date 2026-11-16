@@ -77,7 +77,8 @@
               "title": "待办事项"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,12 +257,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6cb9ee0dae67bf22",
+  "active": "ca97fb9876a418e5",
   "lastOpenFiles": [
+    "待办事项.md",
     "规划草稿.md",
+    "问题汇总115.md",
+    "个人收藏/SSS/Heiliaowang.md",
     "未命名.md",
     "个人情况.md",
-    "待办事项.md",
     "草稿.md",
     "部署prompt.md",
     "上海思维/Opitor/Opitor密钥.md",
@@ -275,12 +278,10 @@
     "okr.md",
     "commit+push prompt.md",
     "A.md",
-    "问题汇总115.md",
     "日报prompt.md",
     "日报.md",
     "请问请问.md",
     "健身计划.md",
-    "个人收藏/SSS/Heiliaowang.md",
     "未命名",
     "个人留存/juan/赔偿.md",
     "个人留存/juan/承诺.md",
