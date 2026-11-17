@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -258,13 +258,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ca97fb9876a418e5",
+  "active": "02a2dd5ba8890b05",
   "lastOpenFiles": [
+    "规划草稿.md",
     "问题汇总115.md",
     "未命名.md",
     "待办事项.md",
     "个人收藏/SSS/Heiliaowang.md",
-    "规划草稿.md",
     "个人情况.md",
     "草稿.md",
     "部署prompt.md",
