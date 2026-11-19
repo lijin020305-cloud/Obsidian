@@ -1,0 +1,1 @@
+请读取 C:\Users\PC\Desktop\MyOptio\docs\LOCAL-PREVIEW-5183-RESTART-PROMPT.md，按其中记录恢复 http://localhost:5183/ 本地预览，沿用原数据库和配置，完成健康检查。不要重新全仓搜索启动方式。
