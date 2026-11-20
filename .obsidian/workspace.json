@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3d82e69ee650d67a",
@@ -274,11 +275,11 @@
   "active": "02a2dd5ba8890b05",
   "lastOpenFiles": [
     "上海思维/Opitor/line Opitor.md",
+    "未命名 1.md",
+    "待办事项.md",
     "问题汇总115.md",
     "规划草稿.md",
     "个人收藏/SSS/Heiliaowang.md",
-    "待办事项.md",
-    "未命名 1.md",
     "Opitor预览等.md",
     "个人情况.md",
     "草稿.md",
