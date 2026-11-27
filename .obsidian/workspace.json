@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3d82e69ee650d67a",
@@ -246,11 +245,11 @@
   },
   "active": "eb6583c551e69dd4",
   "lastOpenFiles": [
+    "问题汇总115.md",
+    "计划清单.md",
     "规划草稿.md",
     "个人收藏/SSS/Heiliaowang.md",
-    "计划清单.md",
     "Opitor日报.md",
-    "问题汇总115.md",
     "Opitor预览等.md",
     "上海思维/Opitor/本地预览账密.md",
     "上海思维/Opitor/line Opitor.md",
